@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9e26c2b232f45789e12103254c2a55a, type: 3}
+  m_Name: BgmLibrary
+  m_EditorClassIdentifier: 
+  clips:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: 8300000, guid: 0998532ba14448f4aa0bfc67fd427a43, type: 3}
+    - Key: 2
+      Value: {fileID: 8300000, guid: 97626840396ae0c4089e9242a2c3a0d9, type: 3}
+    - Key: 3
+      Value: {fileID: 8300000, guid: 6c72698da46303c4daa04756c083d680, type: 3}
+    - Key: 4
+      Value: {fileID: 8300000, guid: b4397faeb454fb947b53c646fda95c58, type: 3}
+  displayInfo:
+  - key: 1
+    displayTitle: Phantom
+    displayId: "\uC218\uB85D\uACE1 No.01"
+  - key: 2
+    displayTitle: Funky Road
+    displayId: "\uC218\uB85D\uACE1 No.02"
+  - key: 3
+    displayTitle: Colorful Mess
+    displayId: "\uC218\uB85D\uACE1 No.03"
+  - key: 4
+    displayTitle: Mechanical JUNGLE
+    displayId: "\uC218\uB85D\uACE1 No.04"

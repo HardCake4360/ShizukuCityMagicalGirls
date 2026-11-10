@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e39befa8b3bf4f0daeb81d929e66e762, type: 3}
+  m_Name: PrototypeMission
+  m_EditorClassIdentifier: 
+  id: mission.prototype.01
+  displayName: Prototype Mission
+  description: Defeat regular enemies and then defeat the boss.
+  image: {fileID: 0}
+  chapter: {fileID: 11400000, guid: b601ad09af55454281207ca18933f4f4, type: 2}
+  enemies:
+  - enemy: {fileID: 11400000, guid: a06ddac310e44887a5a007e858109721, type: 2}
+    weight: 1
+  - enemy: {fileID: 11400000, guid: a06ddac310e44887a5a007e858109722, type: 2}
+    weight: 1
+  - enemy: {fileID: 11400000, guid: a06ddac310e44887a5a007e858109723, type: 2}
+    weight: 1
+  targetKillCount: 5
+  spawnInterval: 1
+  maxAliveEnemies: 5
+  minSpawnRadius: 8
+  maxSpawnRadius: 12
+  boss: {fileID: 11400000, guid: e7c901f43788404587605335b522584a, type: 2}

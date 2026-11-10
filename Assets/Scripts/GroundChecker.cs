@@ -2,14 +2,10 @@ using UnityEngine;
 
 public class GroundChecker : MonoBehaviour
 {
-    private BoxCollider2D Collider;
+    [SerializeField] private BoxCollider2D Collider;
 
     [SerializeField] private LayerMask groundLayer;
-
-    private void Start()
-    {
-        Collider = GetComponent<BoxCollider2D>();
-    }
+    [SerializeField] private bool logGroundState;
 
     public bool CheckIfTouchingGround()
     {
@@ -18,7 +14,7 @@ public class GroundChecker : MonoBehaviour
 
     private void Update()
     {
-        if (CheckIfTouchingGround())
+        if (logGroundState && CheckIfTouchingGround())
         {
             Debug.Log("grounding");
         }

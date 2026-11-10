@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c02541d60f304977969ca7d581a524e6, type: 3}
+  m_Name: CombatScoreSettings
+  m_EditorClassIdentifier: 
+  regularPoints: 100
+  speedPoints: 150
+  defensivePoints: 200
+  bossPoints: 1000
+  chainWindow: 3
+  chainStepPoints: 20
+  maxChainBonus: 60
+  multiKillPoints: 50
+  multiKillWindow: 0.3
+  flankPoints: 50
+  useBonusRepetition: 1
+  repetitionRecoverySeconds: 5
+  repetitionStep: 0.2
+  minimumBonusMultiplier: 0.6
+  movingThreshold: 0.35
+  fastThreshold: 0.8
+  movingMultiplier: 1.25
+  fastMultiplier: 1.5
+  movementGraceSeconds: 1.5
+  maxGauge: 1300
+  rankThresholds:
+  - 0
+  - 100
+  - 220
+  - 350
+  - 500
+  - 650
+  - 800
+  - 950
+  - 1100
+  - 1250
+  bossGaugeGainLimit: 200
+  inactivityDelay: 3
+  decayPerSecond: 40
+  chargeGraceSeconds: 2
+  hitGaugeLossRatio: 0.25

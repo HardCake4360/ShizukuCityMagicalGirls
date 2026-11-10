@@ -1,0 +1,1727 @@
+fileFormatVersion: 2
+guid: d942c3b71870465469e58967aa761a9c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: placeHolderSet_0
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1386
+        width: 132
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1df472265cd2de44a80970d43d5a5d9
+      internalID: -1319733104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_1
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1362
+        width: 78
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cffff3f2ed94c43a1b0171b77b5d4f
+      internalID: -230499944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_2
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1362
+        width: 81
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcae21ab88d9f384a8363cfa9917f8d2
+      internalID: 1101098146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1260
+        width: 162
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc6aade59d01704b91a908b75f1959f
+      internalID: 206081949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_4
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1224
+        width: 72
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94804915dc63a1d478ebadc196c5173f
+      internalID: -354486918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_5
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1290
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fb66495161ce94199fd817b018e5f3
+      internalID: 453896200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_6
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1308
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d3b0207c1f22345b1d3e4fa77c271e
+      internalID: -663063487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1245
+        width: 240
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de1eeedbbd0b25458729ef30fd01f47
+      internalID: 53241503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_8
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1239
+        width: 96
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6259f14bf42d5a42bb9e32299d09574
+      internalID: 1507739649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_9
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1143
+        width: 231
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f3c1c1a5ae4b349b8616dcba2cf026
+      internalID: -452665580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_10
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 1167
+        width: 30
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bcf94912bfdd04f97902aa1f4eccfe
+      internalID: 416223438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_11
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1041
+        width: 36
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6898de2e585d75458e2d6efc102d321
+      internalID: -959546795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1083
+        width: 72
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860977779fe202a4891e277c1b8b9462
+      internalID: 366227344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_13
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1200
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc662fb479fe3e647a3804cdf2febd6b
+      internalID: 1289148156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_14
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1203
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e689c6e46678142815b59218ea3608
+      internalID: -1338500933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_15
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1119
+        width: 123
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9114cfc412ac6db468da71fea57c1252
+      internalID: -1772630608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_16
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1074
+        width: 132
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee54029727ead044911c2242a1d2999
+      internalID: -814102193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_17
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1203
+        width: 150
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0571f049edc2d42bc7a6bae172914f
+      internalID: -209606795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_18
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1056
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6963d55b1cdb58549be2e6569b87641f
+      internalID: 421162587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_19
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1065
+        width: 111
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413b0b2c4923a154c959c5310de3f535
+      internalID: -758532980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_20
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1128
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2c2f4a7f0f7074289613064b036ed7
+      internalID: 1279830828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_21
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1128
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e07fbda61e03741afc906a42ec4643
+      internalID: -795982605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_22
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1113
+        width: 243
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5518f340b6fa3744c96cb8761158da7e
+      internalID: 1715635975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_23
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 915
+        width: 96
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936fca0b63c35bb48a5341e88cdaae7d
+      internalID: 1150596827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_24
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1029
+        width: 150
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48ba5b58e0a4eb44a02bf470cc0d289
+      internalID: -1425844845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_25
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 900
+        width: 201
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5104f62e781861e45a793bf07feb7c29
+      internalID: 951412488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_26
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 918
+        width: 48
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb7ec4fc364dd342a6f68124a321464
+      internalID: -1950861706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_27
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 936
+        width: 285
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8c4551c2e33e34caf6ea3416931d57
+      internalID: 440784283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_28
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 942
+        width: 231
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237fc3d5c6568ab45a16ed8bbd964977
+      internalID: -1164077868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_29
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 942
+        width: 75
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6e552572f651a44956227ac8e1ea85
+      internalID: 465880138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_30
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 942
+        width: 63
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbfec42a0f37604fa6e5fb61f512397
+      internalID: 1948510539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_31
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 942
+        width: 72
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc372a3c6c9e33248bc9b43aedb68087
+      internalID: 1974426556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_32
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 873
+        width: 240
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7de3540867ed24aac13ea1a753fa8f
+      internalID: 1574101340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_33
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 927
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d10d50b38b3dd40b7a2ab2fec365e4
+      internalID: 995279608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_34
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 951
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415437faf73735348895778a083d3e9b
+      internalID: -751156533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_35
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 957
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8476602147d26c4da4df43c03e0147b
+      internalID: 1712745105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_36
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 942
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0962f052bd21efc45b991589398d2b88
+      internalID: 644655201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_37
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 936
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac3c50324841ce419bacb329ae4a02d
+      internalID: -498438944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_38
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 936
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d2e90319a63934692caf7d6e3c18f4
+      internalID: 996258405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_39
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 624
+        width: 72
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ce0ee92f63f164dbb95d48444837a1
+      internalID: -1222602396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_40
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 624
+        width: 102
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3292aa53aa2711479722562ee72b93b
+      internalID: -588290256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_41
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 624
+        width: 228
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17668b665806174085de4d9a7ea3561
+      internalID: 1406438576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_42
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 687
+        width: 174
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ed9c85eb5bbc148ac130f2ce0cc248
+      internalID: -1584742852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_43
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 627
+        width: 279
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425d68ae29d82e24dbb73bdeba6eb7fc
+      internalID: -1744745540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_44
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 645
+        width: 264
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03379fb7d84ae05419d739b81431ff25
+      internalID: 582338921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_45
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 618
+        width: 219
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0470184c4a631604791e262d81cabb50
+      internalID: 376807615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_46
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 576
+        width: 132
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fc5825be5e52c4da5d90e548d8457b
+      internalID: 1533193421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_47
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 408
+        width: 738
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df747c8ced595a8409a004a8bb5f7d51
+      internalID: -1274179980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_48
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 570
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d7d48da899be5409996cbe032fdaa9
+      internalID: 307127606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_49
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 489
+        width: 159
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248969f5502fd2649bec1fcbf72209da
+      internalID: 1133385117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_50
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 573
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b507dc0f7f452494a9a0518313b73ffe
+      internalID: 1531397659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_51
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 555
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a58df1a7c3ff04cb1f722ce549a247
+      internalID: -1391994082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_52
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 558
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bbea95aa00af34b9a028c246ca436b
+      internalID: -1996825581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_53
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 486
+        width: 156
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff8581f716f7f24d81d90c0c03dc676
+      internalID: -1162011024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_54
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 504
+        width: 132
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d75e766c01ff494fa6393acce324e0c
+      internalID: -795028994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_55
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 366
+        width: 174
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3540ac818ed1d94ab1257470e4e3a8b
+      internalID: 2035890327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_56
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 432
+        width: 108
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce06c0aff0deb24ea46e047bd56a7b6
+      internalID: -1743037992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_57
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 351
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5cd3f0a1b92d14cbc3ab5877ae22a6
+      internalID: 1524321970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_58
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 318
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abf8832ca748d34cbca7c5382440848
+      internalID: -567574919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_59
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 234
+        width: 93
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d9cd1cd64b107438932b11925e4ad4
+      internalID: -721590265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_60
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 234
+        width: 72
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa163186de10b1d4aa22b990928426c6
+      internalID: -1332560708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_61
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 234
+        width: 78
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c71ceb7c8b44e46b9ed03995247112
+      internalID: 122049007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_62
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 339
+        width: 123
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95ce7115c4e6ac43832b05747603a13
+      internalID: 647915232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_63
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 285
+        width: 81
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc5d581a0f13cd47865d8729875eab2
+      internalID: 628426413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_64
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 285
+        width: 75
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44693f557100fb94a885a8c1b4f4f452
+      internalID: 442965858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_65
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 285
+        width: 75
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31981b1411d00c40bf064181b758ae7
+      internalID: -1343674057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_66
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 198
+        width: 174
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5aaa47ecc6b56c4aa91b8cc243cb8d4
+      internalID: -1385052357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_67
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 264
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e781466f4def94bbbaa3b5aa0f2d94
+      internalID: 1016306987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_68
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 171
+        width: 141
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820d3a1a059373146a6903b30450da9f
+      internalID: 112663558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: placeHolderSet_69
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 927
+        width: 93
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7356b8e3de08c4b8452ce442fb4244
+      internalID: -1779161250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      placeHolderSet_0: -1319733104
+      placeHolderSet_1: -230499944
+      placeHolderSet_10: 416223438
+      placeHolderSet_11: -959546795
+      placeHolderSet_12: 366227344
+      placeHolderSet_13: 1289148156
+      placeHolderSet_14: -1338500933
+      placeHolderSet_15: -1772630608
+      placeHolderSet_16: -814102193
+      placeHolderSet_17: -209606795
+      placeHolderSet_18: 421162587
+      placeHolderSet_19: -758532980
+      placeHolderSet_2: 1101098146
+      placeHolderSet_20: 1279830828
+      placeHolderSet_21: -795982605
+      placeHolderSet_22: 1715635975
+      placeHolderSet_23: 1150596827
+      placeHolderSet_24: -1425844845
+      placeHolderSet_25: 951412488
+      placeHolderSet_26: -1950861706
+      placeHolderSet_27: 440784283
+      placeHolderSet_28: -1164077868
+      placeHolderSet_29: 465880138
+      placeHolderSet_3: 206081949
+      placeHolderSet_30: 1948510539
+      placeHolderSet_31: 1974426556
+      placeHolderSet_32: 1574101340
+      placeHolderSet_33: 995279608
+      placeHolderSet_34: -751156533
+      placeHolderSet_35: 1712745105
+      placeHolderSet_36: 644655201
+      placeHolderSet_37: -498438944
+      placeHolderSet_38: 996258405
+      placeHolderSet_39: -1222602396
+      placeHolderSet_4: -354486918
+      placeHolderSet_40: -588290256
+      placeHolderSet_41: 1406438576
+      placeHolderSet_42: -1584742852
+      placeHolderSet_43: -1744745540
+      placeHolderSet_44: 582338921
+      placeHolderSet_45: 376807615
+      placeHolderSet_46: 1533193421
+      placeHolderSet_47: -1274179980
+      placeHolderSet_48: 307127606
+      placeHolderSet_49: 1133385117
+      placeHolderSet_5: 453896200
+      placeHolderSet_50: 1531397659
+      placeHolderSet_51: -1391994082
+      placeHolderSet_52: -1996825581
+      placeHolderSet_53: -1162011024
+      placeHolderSet_54: -795028994
+      placeHolderSet_55: 2035890327
+      placeHolderSet_56: -1743037992
+      placeHolderSet_57: 1524321970
+      placeHolderSet_58: -567574919
+      placeHolderSet_59: -721590265
+      placeHolderSet_6: -663063487
+      placeHolderSet_60: -1332560708
+      placeHolderSet_61: 122049007
+      placeHolderSet_62: 647915232
+      placeHolderSet_63: 628426413
+      placeHolderSet_64: 442965858
+      placeHolderSet_65: -1343674057
+      placeHolderSet_66: -1385052357
+      placeHolderSet_67: 1016306987
+      placeHolderSet_68: 112663558
+      placeHolderSet_69: -1779161250
+      placeHolderSet_7: 53241503
+      placeHolderSet_8: 1507739649
+      placeHolderSet_9: -452665580
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

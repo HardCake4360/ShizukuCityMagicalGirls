@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="12" result="Passed" total="12" passed="12" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-11-03 14:24:53Z" end-time="2026-11-03 14:24:53Z" duration="0.1342654">
+  <test-suite type="TestSuite" id="1000" name="UIGlowCompatibilityVerification" fullname="UIGlowCompatibilityVerification" runstate="Runnable" testcasecount="12" result="Passed" start-time="2026-11-03 14:24:53Z" end-time="2026-11-03 14:24:53Z" duration="0.134265" total="12" passed="12" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="EditMode" />
+    </properties>
+    <test-suite type="Assembly" id="1017" name="GlowVerification.EditorTests.dll" fullname="C:/Users/user/Documents/GitHub/ShizukuCityMagicalGirls/Temp/UIGlowCompatibilityVerification/Library/ScriptAssemblies/GlowVerification.EditorTests.dll" runstate="Runnable" testcasecount="12" result="Passed" start-time="2026-11-03 14:24:53Z" end-time="2026-11-03 14:24:53Z" duration="0.130761" total="12" passed="12" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="60552" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+        <property name="EditorOnly" value="True" />
+      </properties>
+      <test-suite type="TestFixture" id="1001" name="UIGlowRenderTests" fullname="UIGlowRenderTests" classname="UIGlowRenderTests" runstate="Runnable" testcasecount="6" result="Passed" start-time="2026-11-03 14:24:53Z" end-time="2026-11-03 14:24:53Z" duration="0.113118" total="6" passed="6" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-suite type="ParameterizedMethod" id="1005" name="DefaultGlowHasClearlyVisiblePixelsOutsideImageAndPolygon" fullname="UIGlowRenderTests.DefaultGlowHasClearlyVisiblePixelsOutsideImageAndPolygon" classname="UIGlowRenderTests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2026-11-03 14:24:53Z" end-time="2026-11-03 14:24:53Z" duration="0.072763" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-case id="1003" name="DefaultGlowHasClearlyVisiblePixelsOutsideImageAndPolygon(False)" fullname="UIGlowRenderTests.DefaultGlowHasClearlyVisiblePixelsOutsideImageAndPolygon(False)" methodname="DefaultGlowHasClearlyVisiblePixelsOutsideImageAndPolygon" classname="UIGlowRenderTests" runstate="Runnable" seed="1060074439" result="Passed" start-time="2026-11-03 14:24:53Z" end-time="2026-11-03 14:24:53Z" duration="0.060926" asserts="0">
+            <properties>
+              <property name="retryIteration" value="0" />
+              <property name="repeatIteration" value="0" />
+            </properties>
+            <output><![CDATA[Image: outside background=RGBA(0.200, 0.200, 0.200, 1.000), halo=RGBA(2.672, 0.156, 1.083, 1.000), center=RGBA(0.000, 0.000, 0.000, 1.000)
+]]></output>
+          </test-case>
+          <test-case id="1004" name="DefaultGlowHasClearlyVisiblePixelsOutsideImageAndPolygon(True)" fullname="UIGlowRenderTests.DefaultGlowHasClearlyVisiblePixelsOutsideImageAndPolygon(True)" methodname="DefaultGlowHasClearlyVisiblePixelsOutsideImageAndPolygon" classname="UIGlowRenderTests" runstate="Runnable" seed="1112338489" result="Passed" start-time="2026-11-03 14:24:53Z" end-time="2026-11-03 14:24:53Z" duration="0.008430" asserts="0">
+            <properties>
+              <property name="retryIteration" value="0" />
+              <property name="repeatIteration" value="0" />
+            </properties>
+            <output><![CDATA[Polygon: outside background=RGBA(0.200, 0.200, 0.200, 1.000), halo=RGBA(2.672, 0.156, 1.083, 1.000), center=RGBA(0.000, 0.000, 0.000, 1.000)
+]]></output>
+          </test-case>
+        </test-suite>
+        <test-suite type="ParameterizedMethod" id="1008" name="MaskedPolygonKeepsHaloInsideItsMask" fullname="UIGlowRenderTests.MaskedPolygonKeepsHaloInsideItsMask" classname="UIGlowRenderTests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2026-11-03 14:24:53Z" end-time="2026-11-03 14:24:53Z" duration="0.022768" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties />
+          <test-case id="1006" name="MaskedPolygonKeepsHaloInsideItsMask(False)" fullname="UIGlowRenderTests.MaskedPolygonKeepsHaloInsideItsMask(False)" methodname="MaskedPolygonKeepsHaloInsideItsMask" classname="UIGlowRenderTests" runstate="Runnable" seed="472339952" result="Passed" start-time="2026-11-03 14:24:53Z" end-time="2026-11-03 14:24:53Z" duration="0.014075" asserts="0">
+            <properties>
+              <property name="retryIteration" value="0" />
+              <property name="repeatIteration" value="0" />
+            </properties>
+          </test-case>
+          <test-case id="1007" name="MaskedPolygonKeepsHaloInsideItsMask(True)" fullname="UIGlowRenderTests.MaskedPolygonKeepsHaloInsideItsMask(True)" methodname="MaskedPolygonKeepsHaloInsideItsMask" classname="UIGlowRenderTests" runstate="Runnable" seed="1766663186" result="Passed" start-time="2026-11-03 14:24:53Z" end-time="2026-11-03 14:24:53Z" duration="0.007950" asserts="0">
+            <properties>
+              <property name="retryIteration" value="0" />
+              <property name="repeatIteration" value="0" />
+            </properties>
+          </test-case>
+        </test-suite>
+        <test-case id="1002" name="PolygonMaterialAloneRunsGlowThroughTheNativeCanvasRenderer" fullname="UIGlowRenderTests.PolygonMaterialAloneRunsGlowThroughTheNativeCanvasRenderer" methodname="PolygonMaterialAloneRunsGlowThroughTheNativeCanvasRenderer" classname="UIGlowRenderTests" runstate="Runnable" seed="1092908455" result="Passed" start-time="2026-11-03 14:24:53Z" end-time="2026-11-03 14:24:53Z" duration="0.002935" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1009" name="TriangleGlowFollowsAnimatedVertexWithoutNeedingAnEffectComponent" fullname="UIGlowRenderTests.TriangleGlowFollowsAnimatedVertexWithoutNeedingAnEffectComponent" methodname="TriangleGlowFollowsAnimatedVertexWithoutNeedingAnEffectComponent" classname="UIGlowRenderTests" runstate="Runnable" seed="2058431887" result="Passed" start-time="2026-11-03 14:24:53Z" end-time="2026-11-03 14:24:53Z" duration="0.009460" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+          <output><![CDATA[Triangle: edge=RGBA(2.672, 0.156, 1.083, 1.000), tip=RGBA(1.081, 0.184, 0.515, 1.000), moved tip=RGBA(1.081, 0.184, 0.515, 1.000)
+]]></output>
+        </test-case>
+      </test-suite>
+      <test-suite type="TestFixture" id="1010" name="UIGlowTests" fullname="UIGlowTests" classname="UIGlowTests" runstate="Runnable" testcasecount="6" result="Passed" start-time="2026-11-03 14:24:53Z" end-time="2026-11-03 14:24:53Z" duration="0.017105" total="6" passed="6" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-case id="1013" name="DisabledZeroRadiusAndZeroIntensityLeaveSourceMeshUntouched" fullname="UIGlowTests.DisabledZeroRadiusAndZeroIntensityLeaveSourceMeshUntouched" methodname="DisabledZeroRadiusAndZeroIntensityLeaveSourceMeshUntouched" classname="UIGlowTests" runstate="Runnable" seed="2004760037" result="Passed" start-time="2026-11-03 14:24:53Z" end-time="2026-11-03 14:24:53Z" duration="0.003094" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1014" name="EnablesUV1WithoutRemovingOtherCanvasChannelsOrReplacingMaterial" fullname="UIGlowTests.EnablesUV1WithoutRemovingOtherCanvasChannelsOrReplacingMaterial" methodname="EnablesUV1WithoutRemovingOtherCanvasChannelsOrReplacingMaterial" classname="UIGlowTests" runstate="Runnable" seed="800644685" result="Passed" start-time="2026-11-03 14:24:53Z" end-time="2026-11-03 14:24:53Z" duration="0.000632" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1016" name="GlowDoesNotExpandMaskWritersOrOtherMaterialMeshes" fullname="UIGlowTests.GlowDoesNotExpandMaskWritersOrOtherMaterialMeshes" methodname="GlowDoesNotExpandMaskWritersOrOtherMaterialMeshes" classname="UIGlowTests" runstate="Runnable" seed="2096227025" result="Passed" start-time="2026-11-03 14:24:53Z" end-time="2026-11-03 14:24:53Z" duration="0.000401" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1012" name="HaloPreservesAtlasUVsAlphaAndDrawsUnchangedSourceLast" fullname="UIGlowTests.HaloPreservesAtlasUVsAlphaAndDrawsUnchangedSourceLast" methodname="HaloPreservesAtlasUVsAlphaAndDrawsUnchangedSourceLast" classname="UIGlowTests" runstate="Runnable" seed="338168334" result="Passed" start-time="2026-11-03 14:24:53Z" end-time="2026-11-03 14:24:53Z" duration="0.007689" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1015" name="MaskMaterialReceivesLiveGlowEditsWithoutChangingStencilState" fullname="UIGlowTests.MaskMaterialReceivesLiveGlowEditsWithoutChangingStencilState" methodname="MaskMaterialReceivesLiveGlowEditsWithoutChangingStencilState" classname="UIGlowTests" runstate="Runnable" seed="412457182" result="Passed" start-time="2026-11-03 14:24:53Z" end-time="2026-11-03 14:24:53Z" duration="0.001107" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+        </test-case>
+        <test-case id="1011" name="MaterialReferencesGlowShaderAndHasRequiredUIProperties" fullname="UIGlowTests.MaterialReferencesGlowShaderAndHasRequiredUIProperties" methodname="MaterialReferencesGlowShaderAndHasRequiredUIProperties" classname="UIGlowTests" runstate="Runnable" seed="385756673" result="Passed" start-time="2026-11-03 14:24:53Z" end-time="2026-11-03 14:24:53Z" duration="0.002879" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+          <output><![CDATA[Saving results to: C:\Users\user\Documents\GitHub\ShizukuCityMagicalGirls\Temp\UIGlowCompatibilityVerification/GlowTests-Final.xml
+]]></output>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

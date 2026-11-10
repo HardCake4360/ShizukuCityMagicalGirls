@@ -1,0 +1,385 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86ca4704bcb34c87aded39c11f5ce0b5, type: 3}
+  m_Name: TestSpriteRigAsset
+  m_EditorClassIdentifier: 
+  dataVersion: 1
+  vertices:
+  - position: {x: 0, y: 0}
+    hasCustomUv: 0
+    uv: {x: 0, y: 0}
+  - position: {x: 0.33333334, y: 0}
+    hasCustomUv: 0
+    uv: {x: 0.33333334, y: 0}
+  - position: {x: 0.6666667, y: 0}
+    hasCustomUv: 0
+    uv: {x: 0.6666667, y: 0}
+  - position: {x: 1, y: 0}
+    hasCustomUv: 0
+    uv: {x: 1, y: 0}
+  - position: {x: 0, y: 0.33333334}
+    hasCustomUv: 0
+    uv: {x: 0, y: 0.33333334}
+  - position: {x: 0.33333334, y: 0.33333334}
+    hasCustomUv: 0
+    uv: {x: 0.33333334, y: 0.33333334}
+  - position: {x: 0.6666667, y: 0.33333334}
+    hasCustomUv: 0
+    uv: {x: 0.6666667, y: 0.33333334}
+  - position: {x: 1, y: 0.33333334}
+    hasCustomUv: 0
+    uv: {x: 1, y: 0.33333334}
+  - position: {x: 0, y: 0.6666667}
+    hasCustomUv: 0
+    uv: {x: 0, y: 0.6666667}
+  - position: {x: 0.33333334, y: 0.6666667}
+    hasCustomUv: 0
+    uv: {x: 0.33333334, y: 0.6666667}
+  - position: {x: 0.6666667, y: 0.6666667}
+    hasCustomUv: 0
+    uv: {x: 0.6666667, y: 0.6666667}
+  - position: {x: 1, y: 0.6666667}
+    hasCustomUv: 0
+    uv: {x: 1, y: 0.6666667}
+  - position: {x: 0, y: 1}
+    hasCustomUv: 0
+    uv: {x: 0, y: 1}
+  - position: {x: 0.33333334, y: 1}
+    hasCustomUv: 0
+    uv: {x: 0.33333334, y: 1}
+  - position: {x: 0.6666667, y: 1}
+    hasCustomUv: 0
+    uv: {x: 0.6666667, y: 1}
+  - position: {x: 1, y: 1}
+    hasCustomUv: 0
+    uv: {x: 1, y: 1}
+  edges:
+  - vertexA: 0
+    vertexB: 1
+    boundary: 1
+  - vertexA: 1
+    vertexB: 2
+    boundary: 1
+  - vertexA: 2
+    vertexB: 3
+    boundary: 1
+  - vertexA: 4
+    vertexB: 5
+    boundary: 0
+  - vertexA: 5
+    vertexB: 6
+    boundary: 0
+  - vertexA: 6
+    vertexB: 7
+    boundary: 0
+  - vertexA: 8
+    vertexB: 9
+    boundary: 0
+  - vertexA: 9
+    vertexB: 10
+    boundary: 0
+  - vertexA: 10
+    vertexB: 11
+    boundary: 0
+  - vertexA: 12
+    vertexB: 13
+    boundary: 1
+  - vertexA: 13
+    vertexB: 14
+    boundary: 1
+  - vertexA: 14
+    vertexB: 15
+    boundary: 1
+  - vertexA: 0
+    vertexB: 4
+    boundary: 1
+  - vertexA: 4
+    vertexB: 8
+    boundary: 1
+  - vertexA: 8
+    vertexB: 12
+    boundary: 1
+  - vertexA: 1
+    vertexB: 5
+    boundary: 0
+  - vertexA: 5
+    vertexB: 9
+    boundary: 0
+  - vertexA: 9
+    vertexB: 13
+    boundary: 0
+  - vertexA: 2
+    vertexB: 6
+    boundary: 0
+  - vertexA: 6
+    vertexB: 10
+    boundary: 0
+  - vertexA: 10
+    vertexB: 14
+    boundary: 0
+  - vertexA: 3
+    vertexB: 7
+    boundary: 1
+  - vertexA: 7
+    vertexB: 11
+    boundary: 1
+  - vertexA: 11
+    vertexB: 15
+    boundary: 1
+  - vertexA: 0
+    vertexB: 5
+    boundary: 0
+  - vertexA: 1
+    vertexB: 6
+    boundary: 0
+  - vertexA: 2
+    vertexB: 7
+    boundary: 0
+  - vertexA: 4
+    vertexB: 9
+    boundary: 0
+  - vertexA: 5
+    vertexB: 10
+    boundary: 0
+  - vertexA: 6
+    vertexB: 11
+    boundary: 0
+  - vertexA: 8
+    vertexB: 13
+    boundary: 0
+  - vertexA: 9
+    vertexB: 14
+    boundary: 0
+  - vertexA: 10
+    vertexB: 15
+    boundary: 0
+  triangles: 00000000010000000500000000000000050000000400000001000000020000000600000001000000060000000500000002000000030000000700000002000000070000000600000004000000050000000900000004000000090000000800000005000000060000000a000000050000000a0000000900000006000000070000000b000000060000000b0000000a00000008000000090000000d000000080000000d0000000c000000090000000a0000000e000000090000000e0000000d0000000a0000000b0000000f0000000a0000000f0000000e000000
+  bones:
+  - stableId: 20f2ff58fe4c46f0a614c0036060f803
+    name: Bone 4
+    parentIndex: -1
+    localPosition: {x: 1.0006554, y: 0.993131}
+    localRotation: -135.46007
+    length: 0.4702424
+    physics:
+      simulationMode: 0
+      mass: 1
+      gravityScale: 1
+      stiffness: 8
+      damping: 0.86
+      inertia: 0.75
+      minimumAngle: -180
+      maximumAngle: 180
+      maximumAngularSpeed: 720
+      collisionRadius: 0.05
+      externalForceMultiplier: 1
+  - stableId: 5cdd8b93c323452f9112022d20038e1b
+    name: Bone 1
+    parentIndex: 0
+    localPosition: {x: 0.4702424, y: 0}
+    localRotation: 72.08762
+    length: 0.7331844
+    physics:
+      simulationMode: 2
+      mass: 1
+      gravityScale: 1
+      stiffness: 8
+      damping: 0.86
+      inertia: 0.75
+      minimumAngle: -180
+      maximumAngle: 180
+      maximumAngularSpeed: 720
+      collisionRadius: 0
+      externalForceMultiplier: 1
+  - stableId: fada13b112654293a0121cd488a4673f
+    name: Bone 2
+    parentIndex: 0
+    localPosition: {x: 0.4702424, y: 0}
+    localRotation: -70.87479
+    length: 0.7412299
+    physics:
+      simulationMode: 2
+      mass: 1
+      gravityScale: 1
+      stiffness: 8
+      damping: 0.86
+      inertia: 0.75
+      minimumAngle: -180
+      maximumAngle: 180
+      maximumAngularSpeed: 720
+      collisionRadius: 0
+      externalForceMultiplier: 1
+  - stableId: f305341b986248b4b141bff5e2c2f9cd
+    name: Bone 3
+    parentIndex: 0
+    localPosition: {x: 0.4702424, y: 0}
+    localRotation: 0
+    length: 0.4702424
+    physics:
+      simulationMode: 1
+      mass: 1
+      gravityScale: 1
+      stiffness: 8
+      damping: 0.86
+      inertia: 0.75
+      minimumAngle: -180
+      maximumAngle: 180
+      maximumAngularSpeed: 720
+      collisionRadius: 0.05
+      externalForceMultiplier: 1
+  - stableId: 4e4db4e46754484897745db12278c205
+    name: Bone 4
+    parentIndex: 3
+    localPosition: {x: 0.4702424, y: 0}
+    localRotation: 0
+    length: 0.4702424
+    physics:
+      simulationMode: 2
+      mass: 1
+      gravityScale: 1
+      stiffness: 8
+      damping: 0.86
+      inertia: 1
+      minimumAngle: -90
+      maximumAngle: 90
+      maximumAngularSpeed: 720
+      collisionRadius: 0.05
+      externalForceMultiplier: 1
+  weights:
+  - boneIndex0: 4
+    boneIndex1: 3
+    boneIndex2: 2
+    boneIndex3: 1
+    weight0: 0.99974597
+    weight1: 0.00016335788
+    weight2: 0.000045467787
+    weight3: 0.000045212746
+  - boneIndex0: 4
+    boneIndex1: 3
+    boneIndex2: 1
+    boneIndex3: 2
+    weight0: 0.56039727
+    weight1: 0.2897708
+    weight2: 0.09126964
+    weight3: 0.058562282
+  - boneIndex0: 1
+    boneIndex1: 3
+    boneIndex2: 4
+    boneIndex3: 0
+    weight0: 0.5045857
+    weight1: 0.19740306
+    weight2: 0.19737302
+    weight3: 0.10063828
+  - boneIndex0: 1
+    boneIndex1: 3
+    boneIndex2: 0
+    boneIndex3: 2
+    weight0: 0.9994549
+    weight1: 0.000193718
+    weight2: 0.00017565994
+    weight3: 0.00017565994
+  - boneIndex0: 4
+    boneIndex1: 3
+    boneIndex2: 2
+    boneIndex3: 0
+    weight0: 0.5739384
+    weight1: 0.28212503
+    weight2: 0.08814671
+    weight3: 0.05578977
+  - boneIndex0: 3
+    boneIndex1: 4
+    boneIndex2: 2
+    boneIndex3: 1
+    weight0: 0.65065134
+    weight1: 0.34931624
+    weight2: 0.000016256765
+    weight3: 0.00001612976
+  - boneIndex0: 1
+    boneIndex1: 3
+    boneIndex2: 0
+    boneIndex3: 2
+    weight0: 0.56083536
+    weight1: 0.21706201
+    weight2: 0.111051306
+    weight3: 0.111051306
+  - boneIndex0: 1
+    boneIndex1: 0
+    boneIndex2: 2
+    boneIndex3: 3
+    weight0: 0.76309067
+    weight1: 0.07898142
+    weight2: 0.07896395
+    weight3: 0.07896395
+  - boneIndex0: 2
+    boneIndex1: 4
+    boneIndex2: 3
+    boneIndex3: 0
+    weight0: 0.5079891
+    weight1: 0.1970396
+    weight2: 0.19703694
+    weight3: 0.09793445
+  - boneIndex0: 2
+    boneIndex1: 3
+    boneIndex2: 0
+    boneIndex3: 1
+    weight0: 0.5702513
+    weight1: 0.21442284
+    weight2: 0.10766296
+    weight3: 0.10766296
+  - boneIndex0: 0
+    boneIndex1: 2
+    boneIndex2: 1
+    boneIndex3: 3
+    weight0: 0.6312675
+    weight1: 0.124136284
+    weight2: 0.12229812
+    weight3: 0.12229812
+  - boneIndex0: 0
+    boneIndex1: 1
+    boneIndex2: 2
+    boneIndex3: 3
+    weight0: 0.39048964
+    weight1: 0.23314841
+    weight2: 0.18818103
+    weight3: 0.18818103
+  - boneIndex0: 2
+    boneIndex1: 3
+    boneIndex2: 4
+    boneIndex3: 0
+    weight0: 0.99964434
+    weight1: 0.00012700436
+    weight2: 0.00011464332
+    weight3: 0.00011405263
+  - boneIndex0: 2
+    boneIndex1: 3
+    boneIndex2: 0
+    boneIndex3: 1
+    weight0: 0.7577178
+    weight1: 0.08076081
+    weight2: 0.08076069
+    weight3: 0.08076069
+  - boneIndex0: 0
+    boneIndex1: 2
+    boneIndex2: 1
+    boneIndex3: 3
+    weight0: 0.3795066
+    weight1: 0.23755698
+    weight2: 0.19146821
+    weight3: 0.19146821
+  - boneIndex0: 0
+    boneIndex1: 1
+    boneIndex2: 2
+    boneIndex3: 3
+    weight0: 0.9993663
+    weight1: 0.00021122808
+    weight2: 0.00021122808
+    weight3: 0.00021122808
